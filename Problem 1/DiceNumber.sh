@@ -1,4 +1,3 @@
-#!/bin/bash -x
 r=$((RANDOM%7))
 #echo "Random number : $r"
 
